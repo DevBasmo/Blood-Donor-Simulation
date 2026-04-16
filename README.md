@@ -1,4 +1,4 @@
-# Blood Bank Donor Management System
+# Blood Bank Donor Management System Simulation
 
 A JavaFX desktop application for managing blood donation 
 appointments with role-based login for Admin and User access.
